@@ -1316,12 +1316,12 @@ ehof_reality_code.1004.desc: "$ehof_the_sphere$의 입구 장치를 어떻게 �
 # Stage 5
 
 ehof_reality_code.1005.name: ""
-ehof_reality_code.1005.desc: ""
+ehof_reality_code.1005.desc: "드디어 우리는 $ehof_the_sphere$의 입구 장치를 풀기위한 기계를 완성했습니다.\n\n서로 다른 지역에서 상호작용하기 위해 다양한 도구를 지닌 수천개의 드론들이 만들어졌습니다.\n\n자극을 한번에 가해야할지 특정한 순서로 가해야할지는 알 수 없습니다. 자극이 어떻게 가해져야하는지 결정하지 위해, 우리의 지성인들이 전체 과정을 주시할 것입니다."
 
 # Stage 6
 
 ehof_reality_code.1006.name: ""
-ehof_reality_code.1006.desc: ""
+ehof_reality_code.1006.desc: "됐습니다, 우리는 $ehof_the_sphere$를 열기 위한 입구 장치를 풀 수 있었습니다!\n\n수많은 시도의 끝에, 우리의 지성인들은 드론들이 자극을 가하는 순서가 $ehof_the_sphere$가 공전하는 블랙홀이 방출하는 중력파의 고조파와 밀접한 관련이 있음을 밝혀냈습니다.\n\n어째서 $ehof_the_sphere$의 크레이터가 이러한 방식으로 장치를 지키는지는 전혀 알 수 없지만, 별 문제는 아닙니다.\n\n$ehof_the_sphere$가 드디어 열립니다. 이제 모든 비밀을 드러낼 시간입니다!"
 
 ###########################################################################
 
@@ -1664,7 +1664,7 @@ GIGA_PLANET_COMPUTER_DESC: ""
 GIGA_SYSTEM_COMPUTER: ""
 GIGA_SYSTEM_COMPUTER_DESC: ""
 QSO_COMPUTER: ""
-QSO_COMPUTER_DESC: ""
+QSO_COMPUTER_DESC: "준-천체 교정기는 가능한한 적에게서 멀리 떨어져있을 것입니다."
 compound_combat_computers: ""
 COMPOUND_COMPUTER_SWARM: ""
 COMPOUND_COMPUTER_PICKET: ""
@@ -1769,8 +1769,8 @@ REACTOR_SYSTEM_DESC: ""
 
 COMPOUND_JUMPDRIVE: ""
 COMPOUND_JUMPDRIVE_DESC: ""
-SA_HYPERDRIVE_COMPONENTS: ""
-SA_HYPERDRIVE_COMPONENTS_DESC: ""
+SA_HYPERDRIVE_COMPONENTS: "장막 FTL"
+SA_HYPERDRIVE_COMPONENTS_DESC: "무한한 거리의 FTL."
 SA_HYPERDRIVE: ""
 QNM_JUMPDRIVE: ""
 GIGA_MOON_DRIVE: ""
@@ -1783,7 +1783,7 @@ QSO_JUMP_DRIVE_DESC: ""
 COMPOUND_SENSOR: ""
 COMPOUND_SENSOR_DESC: ""
 SA_SENSOR_COMPONENTS: ""
-SA_SENSOR_COMPONENTS_DESC: ""
+SA_SENSOR_COMPONENTS_DESC: "우주 감시망처럼, 이 함선은 모든것을 볼 수 있습니다."
 SA_SENSOR: ""
 QNM_SENSOR: ""
 
