@@ -1984,11 +1984,11 @@ mod_job_ehof_cultivator_per_pop_short: ""
 
 job_ehof_cultivation_drone: ""
 job_ehof_cultivation_drone_plural: ""
-job_ehof_cultivation_drone_desc: ""
-job_ehof_cultivation_drone_effect_desc: ""
+job_ehof_cultivation_drone_desc: "$job_ehof_cultivation_drone_plural$ 은 우리 공동체를 위해 £alloys£ §Y$합금$§! 과 £energy£ §Y$에너지$§!를 재료로 £ehof_sr_sentient_metal£ §Y$ehof_sr_sentient_metal$§!을 복제합니다. "
+job_ehof_cultivation_drone_effect_desc: "£job_ehof_cultivation_drone£ $job_ehof_cultivation_drone_plural$은 £alloys£ §Y$합금$§! 과£energy£ §Y$에너지$§! 를 £ehof_sr_sentient_metal£ §Y$ehof_sr_sentient_metal$§로 바꿉니다!"
 mod_job_ehof_cultivation_drone_add: ""
 mod_job_ehof_cultivation_drone_per_pop: ""
-mod_job_ehof_cultivation_drone_per_pop_short: ""
+mod_job_ehof_cultivation_drone_per_pop_short: "( $VALUE$£pop£당 §G+1§! £mod_job_ehof_cultivation_drone_add£)"
 
 ### Starbase Modules ########################################################################################################################
 
