@@ -1247,7 +1247,7 @@ ehof_reality_code.414.desc: ""
 ### Gas Giant ###
 
 code_5_cat: ""
-code_05_category_desc: "[this.GetName]는 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 거대 기체 행성 §H[from.from.GetName]§!의 내부입니다."
+code_05_category_desc: "[this.GetName]는 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 거대 기체 행성 §H[from.from.GetName]§!의 내부입니다.\n\n행성 내부 혹은 표면의 정확한 위치는 조사로 밝혀질 필요가 있습니다."
 ehof_reality_code.501.name: ""
 ehof_reality_code.501.desc: "§H[from.from.GetName]§!에 존재하는 증폭기의 위치가 밝혀졌습니다.\n\n기존의 다른 증폭기들과 동일하게 이번에도 행성 내에 있으며 북극의 약 6449.2킬로미터 지하에 있습니다.\n\n이 발굴 작업은 지금까지의 그 어떤 작업보다도 어려울 것입니다. 증폭기에 도달하기 위해선 고도의 내구성을 지닌 전문 장비가 필요할 것이며 높은 온도와 밀도는 이 작업을 방해할 것입니다. 작업에 필요한 장비는 새로 제작되어야 합니다."
 code5_digsite: ""
@@ -1267,7 +1267,7 @@ ehof_reality_code.514.desc: ""
 ### Star ###
 
 code_6_cat: ""
-code_06_category_desc: "[this.GetName]은 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 별 §H[from.from.GetName]§!의 내부입니다."
+code_06_category_desc: "[this.GetName]은 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 별 §H[from.from.GetName]§!의 내부입니다.\n\n행성 내부 혹은 표면의 정확한 위치는 조사로 밝혀질 필요가 있습니다."
 ehof_reality_code.601.name: ""
 ehof_reality_code.601.desc: "§H[from.from.GetName]§!에 존재하는 증폭기의 위치가 밝혀졌습니다.\n\n지표면의 74650.7 킬로미터 지하에 있습니다.\n\n이 발굴 작업은 별 내에서 이뤄지기 때문에 지금까지의 그 어떤 작업보다도 어려울 것입니다. 높은 온도와 밀도는 이 작업을 방해할 것이며 작업에 필요한 장비는 새로 제작되어야 합니다.\n\n이 프로젝트에 투자해야 할 시간과 자원은 예측이 불가능합니다. 하지만 수수께끼의 마스터-코드를 완성하고 $ehof_epcs$의 근원지에 도달하는 건 그 어떤 대가도 치를 수 있는 값어치를 가집니다."
 code6_digsite: ""
@@ -1275,9 +1275,9 @@ code6_digsite_desc: "§H[code_world_planet.GetName]§!의 프로젝트에 필요
 ehof_reality_code.611.name: ""
 ehof_reality_code.611.desc: "증폭기에 도달하기 위해 §H[code_world_planet.GetName]§!의 자기권에 특수시설을 증폭기 위치의 정확히 위에 지었습니다. 별 내부의 엄청난 열과 압력은 통상적인 발굴을 불가능하게 합니다.\n\n이 특수시설은 거대한 열 저항성 닻을 별의 대기권에 떨어뜨릴 것입니다. 닻은 증폭기의 위치에 가까워질 때까지 자기권을 통과한 뒤 자기장 생성기들을 통해 그 위치에 고정될 것입니다.\n\n시설과 닻 사이의 연결케이블은 이후 신호의 근원지에 도달할 때까지 내려가는 엘레베이터의 건설에 사용될 것입니다.\n\n닻을 내릴 준비가 되었습니다."
 ehof_reality_code.612.name: ""
-ehof_reality_code.612.desc: ""
+ehof_reality_code.612.desc: "닻은 근원지에 도달했습니다. 닻은 고정되었고 시설과의 연결이 안정화되었습니다.\n\n엘레베이터 장치의 사용이 가능합니다."
 ehof_reality_code.613.name: ""
-ehof_reality_code.613.desc: ""
+ehof_reality_code.613.desc: "엘레베이터 장치는 증폭기에 도달했다고 보고했습니다. 다른 행성들과 동일하게 증폭기 주변에 보호막이 공간을 유지시키고 있습니다. 하지만 행성의 내부 물질이 장치를 파괴하지 못하게 하는 대신 별의 압력과 대기가 파괴하지 못하게 합니다. 우리 팀은 장치에 진입할 준비가 되었습니다."
 ehof_reality_code.614.name: ""
 ehof_reality_code.614.desc: ""
 
