@@ -19,7 +19,7 @@ mzilli_supernova_system_03_DESC: "§Y10§!, §Y30§!, §Yf50§!, 혹은 §Y80§!
 mzilli_supernova_system_04_NAME: "초신성 (쌍성)"
 mzilli_supernova_system_04_DESC: "§Y10§!, §Y30§!, §Yf50§!, 혹은 §Y80§!년 안에 주항성이 초신성 폭발을 일으키는 쌍성계입니다. \n\n$system_initializer_DESC$"
 sol_system_initializer_supernova_NAME: "초신성 (태양계)"
-sol_system_initializer_supernova_DESC: ""
+sol_system_initializer_supernova_DESC: "태양계는 §Y10§!, §Y30§!, §Yf50§!, 혹은 §Y80§!년 안에 초신성 폭발을 일으킬 것입니다. 네, 비현실적입니다. 신경쓰지 않습니다. 태양이 §R$pc_m_giant_star$§이 될것을. \n\n$system_initializer_DESC$"
 deneb_system_supernova_NAME: ""
 deneb_system_supernova_DESC: ""
 mzilli_imminent_supernova: ""
