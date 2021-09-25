@@ -1,0 +1,268 @@
+﻿l_english:
+
+edict_mzilli_supernova_evacuation_protocols:0 "$edict_evacuation_protocols$"
+edict_mzilli_supernova_evacuation_protocols_desc:0 "$edict_evacuation_protocols_desc$"
+
+#pc_k_giant_star:0 "Class K Orange Giant"
+#pc_k_giant_star_desc:0 "$pc_m_giant_desc$"
+
+pc_f_giant_star:0 "Class F White Giant"
+pc_f_giant_star_desc:0 "With a large radius and comparatively low surface temperature, white giants are stars of moderate mass in a late stage of stellar evolution. Their expanded stellar atmosphere and high luminosity make for distant habitable zone orbits."
+
+mzilli_supernova_system_01_NAME:0 "Supernova (Planet)"
+mzilli_supernova_system_01_DESC:0 "A giant star system, projected to go supernova in §Yten§!, §Ythirty§!, §Yfifty§!, or §Yeighy§! years. Homeworld is a planet.\n\n$system_initializer_DESC$"
+
+mzilli_supernova_system_02_NAME:0 "Supernova (Moon)"
+mzilli_supernova_system_02_DESC:0 "A giant star system, projected to go supernova in §Yten§!, §Ythirty§!, §Yfifty§!, or §Yeighy§! years. Homeworld is a moon orbiting a gas giant.\n\n$system_initializer_DESC$"
+
+mzilli_supernova_system_03_NAME:0 "Supernova (Trinary)"
+mzilli_supernova_system_03_DESC:0 "A trinary star system, whose primary star is projected to go supernova in §Yten§!, §Ythirty§!, §Yfifty§!, or §Yeighy§! years.\n\n$system_initializer_DESC$"
+
+mzilli_supernova_system_04_NAME:0 "Supernova (Binary)"
+mzilli_supernova_system_04_DESC:0 "A binary star system, whose primary star is projected to go supernova in §Yten§!, §Ythirty§!, §Yfifty§!, or §Yeighy§! years.\n\n$system_initializer_DESC$"
+
+sol_system_initializer_supernova_NAME:0 "Supernova (Sol)"
+sol_system_initializer_supernova_DESC:0 "The Sol system, somehow about to go supernova in §Yten§!, §Ythirty§!, §Yfifty§!, or §Yeighy§! years. Yes, it's unrealistic. No, I don't care. This iteration of Sol is a §R$pc_m_giant_star$§!.\n\n$system_initializer_DESC$"
+
+deneb_system_supernova_NAME:0 "Supernova (Deneb)"
+deneb_system_supernova_DESC:0 "The Deneb system, projected to go supernova in §Yten§!, §Ythirty§!, §Yfifty§!, or §Yeighy§! years. This iteration of Deneb is a $pc_m_giant_star$.\n\n$system_initializer_DESC$"
+
+mzilli_imminent_supernova:0 "Looming Supernova"
+mzilli_imminent_supernova_desc:0 "§H[This.solar_system.star.GetName]§! will explode in a supernova on §R[This.solar_system.star.supernova_date]§!, destroying all ships and planets in its solar system."
+
+mzilli_imminent_nova:0 "Recurring Nova"
+mzilli_imminent_nova_desc:0 "Every eighteen years, the white dwarf §H[mzilli_nova.GetName]§! blasts off material captured from its companion, devastating the system and destroying any starships or space stations present. §Y[mzilli_nova_habitat.GetName]§! is the only exception. The next nova will take place on §R[mzilli_nova.nova_date]§!."
+
+mzilli_imminent_supernova_nova:0 "$mzilli_imminent_supernova$"
+mzilli_imminent_supernova_nova_desc:0 "§H[mzilli_nova.GetName]§! will explode in a supernova on §R[mzilli_nova.supernova_date]§!, destroying all ships and planets in its solar system."
+
+mzilli_supernova_phile:0 "Supernova Survivors"
+mzilli_supernova_phile_desc:0 "We outlived our homeworld."
+mzilli_supernova_phobe:0 "$mzilli_supernova_phile$"
+mzilli_supernova_phobe_desc:0 "$mzilli_supernova_phile_desc$"
+mzilli_supernova_egal:0 "$mzilli_supernova_phile$"
+mzilli_supernova_egal_desc:0 "$mzilli_supernova_phile_desc$"
+mzilli_supernova_auth:0 "$mzilli_supernova_phile$"
+mzilli_supernova_auth_desc:0 "$mzilli_supernova_phile_desc$"
+mzilli_supernova_pac:0 "$mzilli_supernova_phile$"
+mzilli_supernova_pac_desc:0 "$mzilli_supernova_phile_desc$"
+mzilli_supernova_mil:0 "$mzilli_supernova_phile$"
+mzilli_supernova_mil_desc:0 "$mzilli_supernova_phile_desc$"
+mzilli_supernova_spir:0 "$mzilli_supernova_phile$"
+mzilli_supernova_spir_desc:0 "$mzilli_supernova_phile_desc$"
+mzilli_supernova_mat:0 "$mzilli_supernova_phile$"
+mzilli_supernova_mat_desc:0 "$mzilli_supernova_phile_desc$"
+
+mzilli_supernova_threat:0 "Distant Apocalypse"
+mzilli_supernova_threat_desc:0 "This [This.GetPlanetMoon]'s sun is dying, and its denizens are understandably distressed."
+
+mzilli_supernova_panic:0 "Imminent Apocalypse"
+mzilli_supernova_panic_desc:0 "This [This.GetPlanetMoon]'s sun is dying, and its denizens are in a constant state of panic and anarchy as a result."
+
+mzilli_dying_world:0 "Dying World"
+mzilli_dying_world_desc:0 "This [This.GetPlanetMoon] is deteriorating as its sun enters its death throes."
+
+mzilli_recent_supernova:0 "Recent Supernova"
+mzilli_recent_supernova_desc:0 "This star went supernova very recently, immolating all planets in its solar system."
+
+mzilli_exodus:0 "Accelerated Exodus"
+mzilli_exodus_desc:0 "This [This.GetPlanetMoon]'s population is desperately trying to evacuate before its destruction."
+
+mzilli_counter_riot:0 "Counter-Insurgency"
+mzilli_counter_riot_desc:0 "This [This.GetPlanetMoon]'s government is struggling to keep public hysteria under control."
+
+mzilli_grb_threat:0 "Incoming GRB"
+mzilli_grb_threat_desc:0 "A gamma-ray burst will strike this [This.GetPlanetMoon] on §H[This.grb_date]§!, with an unknown level of intensity."
+
+mzilli_supernova_1b.1.name:0 "Supernova Configuration"
+mzilli_supernova_1b.1.desc:0 "§YHow much time do you want to pass before [Root.Capital.solar_system.star.GetName] goes supernova?§!"
+mzilli_supernova_1b.1.10:0 "§RTen years!§!"
+mzilli_supernova_1b.1.30:0 "§HThirty years!§!"
+mzilli_supernova_1b.1.50:0 "§YFifty years!§!"
+mzilli_supernova_1b.1.80:0 "§EEighty years!§!"
+
+mzilli_supernova.3.name:0 "A Ticking Clock"
+mzilli_supernova.3.desc.10.i:0 "For countless generations, the star we know as §Y[FROM.solar_system.star.GetName]§! has provided [FROM.GetName] with light and warmth. Life on this [FROM.GetPlanetMoon] simply could not exist without it. But today, the finest [Root.GetAdj] heliophysicists have confirmed what many doomsayers have been warning about for decades: [FROM.solar_system.star.GetName] is dying.\n\nOur sun is nearly at the end of its life cycle, and on §R[FROM.solar_system.star.supernova_date]§! -- just ten years from now -- it will explode in a catastrophic supernova. Every world in our solar system will be stripped of life, if not shattered or melted altogether. There is no hope of reversing the star's aging process; if such a task is possible at all, it is far beyond our capabilities at present.\n\nOnly one choice remains: we must send emissaries to search the stars for other habitable worlds to emigrate to. The [Root.GetSpeciesAdj] race was born on [FROM.GetName], but it was never meant to die here."
+mzilli_supernova.3.desc.30.i:0 "For countless generations, the star we know as §Y[FROM.solar_system.star.GetName]§! has provided [FROM.GetName] with light and warmth. Life on this [FROM.GetPlanetMoon] simply could not exist without it. But today, the finest [Root.GetAdj] heliophysicists have confirmed what many doomsayers have been warning about for decades: [FROM.solar_system.star.GetName] is dying.\n\nOur sun is nearly at the end of its life cycle, and on §R[FROM.solar_system.star.supernova_date]§! -- mere decades from now -- it will explode in a catastrophic supernova. Every world in our solar system will be stripped of life, if not shattered or melted altogether. There is no hope of reversing the star's aging process; if such a task is possible at all, it is far beyond our capabilities at present.\n\nOnly one choice remains: we must send emissaries to search the stars for other habitable worlds to emigrate to. The [Root.GetSpeciesAdj] race was born on [FROM.GetName], but it was never meant to die here."
+mzilli_supernova.3.desc.10.g:0 "For countless generations, the star we know as §Y[FROM.solar_system.star.GetName]§! has provided [FROM.GetName] with light and warmth. Life on this [FROM.GetPlanetMoon] simply could not exist without it. But today, the hive mind has finally confirmed what it has feared for decades: [mzilli_kaboom.GetName] is dying.\n\nOur sun is nearly at the end of its life cycle, and on §R[FROM.solar_system.star.supernova_date]§! -- just ten years from now -- it will explode in a catastrophic supernova. Every world in our solar system will be stripped of life, if not shattered or melted altogether. There is no hope of reversing the star's aging process; if such a task is possible at all, it is far beyond our capabilities at present.\n\nOnly one choice remains: we must send drones to search the stars for other habitable worlds to emigrate to. The [Root.GetName] was born on [FROM.GetName], but it was never meant to die here."
+mzilli_supernova.3.desc.30.g:0 "For countless generations, the star we know as §Y[FROM.solar_system.star.GetName]§! has provided [FROM.GetName] with light and warmth. Life on this [FROM.GetPlanetMoon] simply could not exist without it. But today, the hive mind has finally confirmed what it has feared for decades: [mzilli_kaboom.GetName] is dying.\n\nOur sun is nearly at the end of its life cycle, and on §R[FROM.solar_system.star.supernova_date]§! -- mere decades from now -- it will explode in a catastrophic supernova. Every world in our solar system will be stripped of life, if not shattered or melted altogether. There is no hope of reversing the star's aging process; if such a task is possible at all, it is far beyond our capabilities at present.\n\nOnly one choice remains: we must send drones to search the stars for other habitable worlds to emigrate to. The [Root.GetName] was born on [FROM.GetName], but it was never meant to die here."
+
+mzilli_supernova.3.a:0 "Inform the public. They deserve to know the truth."
+mzilli_supernova.3.a.tooltip:0 "[FROM.GetName] gains the §Y$mzilli_supernova_threat$§! modifier, with the following effects:\nBiological Pop Happiness: §R-15%§!\nAll Migration: §Y-200%§!\nResearch From Jobs: §G+10%§!"
+mzilli_supernova.3.b:0 "Classify this information. We cannot afford mass hysteria."
+mzilli_supernova.3.c:0 "We will endure."
+
+mzilli_supernova.5.name:0 "Apocalypse Rising"
+mzilli_supernova.5.desc.10.i:0 "Our time is running out.\n\n§Y[FROM.solar_system.star.GetName]§! is only a few short years away from going supernova, and it is now obvious to everyone in the system that something is terribly wrong. Dark patches on the sun are having adverse effects on [FROM.GetName]'s climate, and some of the native plant life is starting to starve as the skies darken.\n\nProtestors are gathering outside government buildings in our capital city, and there are reports of looting and mass hysteria all over the [FROM.GetPlanetMoon]."
+mzilli_supernova.5.desc.80.i:0 "Our time is running out.\n\n§Y[FROM.solar_system.star.GetName]§! is only a few decades away from going supernova, and it is now obvious to everyone in the system that something is terribly wrong. Dark patches on the sun are having adverse effects on [FROM.GetName]'s climate, and some of the native plant life is starting to starve as the skies darken.\n\nProtestors are gathering outside government buildings in our capital city, and there are reports of looting and mass hysteria all over the [FROM.GetPlanetMoon]."
+mzilli_supernova.5.desc.10.g:0 "Our time is running out. §Y[FROM.solar_system.star.GetName]§! is only a few short years away from going supernova.\n\nDark patches on the sun are beginning to have adverse effects on [FROM.GetName]'s climate, and some of the native plant life is starting to starve as the skies darken."
+mzilli_supernova.5.desc.80.g:0 "Our time is running out. §Y[FROM.solar_system.star.GetName]§! is only a few decades away from going supernova.\n\nDark patches on the sun are beginning to have adverse effects on [FROM.GetName]'s climate, and some of the native plant life is starting to starve as the skies darken."
+
+mzilli_supernova.5.a:0 "We must expedite the evacuations."
+mzilli_supernova.5.b:0 "Get these uprisings under control."
+
+mzilli_supernova.7.name:0 "Countdown"
+mzilli_supernova.7.desc.i:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova, and [FROM.GetName] is rapidly deteriorating as the end approaches. All government officials are being evacuated from the [FROM.GetPlanetMoon]; any starships remaining in the system should follow suit before it's too late. Even the outer regions will likely prove too dangerous to survive.\n\nThere are still millions of people trapped on [FROM.GetName], desperately trying to barter passage out of the system before the sun explodes. It is unlikely many of them will make it out in time."
+mzilli_supernova.7.desc.g:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova, and [FROM.GetName] is rapidly deteriorating as the end approaches. Any starships remaining in the system should evacuate before it's too late; even the outer regions will likely prove too dangerous to survive."
+
+mzilli_supernova.7.a:0 "We've done all we can."
+
+mzilli_supernova.9.name:0 "The [FROM.System.GetName] Supernova"
+mzilli_supernova.9.desc.extinct:0 "Our automated monitoring stations on [FROM.GetName] captured the final moments of its solar system.\n\n§Y[FROM.solar_system.star.GetName]§! suddenly began to shrink and dim as its core collapsed, and moments later the star erupted as its outer layers were blasted off, becoming a true supernova. The explosion was so powerful that the innermost planets literally boiled away, leaving nothing but a cloud of dust in their place.\n\nBy the time the blast wave reached [FROM.GetName], it had weakened enough that the [FROM.GetPlanetMoon] wasn't completely vaporized. Instead, [FROM.GetName] shattered into countless smaller fragments that remain loosly held together by gravity. The outermost planets were left mostly intact, but with their atmospheres blown away and their outer crusts melted into liquid rock."
+mzilli_supernova.9.desc.survivors:0 "$mzilli_supernova.9.desc.extinct$\n\nThe death of [FROM.GetName] is a tragedy, but the fact that any [Root.GetSpeciesNamePlural] survived is a testamant to the spirit of our species. We will bounce back from this cataclysm, and be stronger for it!"
+
+mzilli_supernova.9.phile:0 "Now we take to the stars."
+mzilli_supernova.9.phobe:0 "We must survive, by any means necessary."
+mzilli_supernova.9.spir:0 "[FROM.GetName] will live on in us."
+mzilli_supernova.9.mat:0 "A grim reminder that the universe is cold and unforgiving."
+mzilli_supernova.9.egal:0 "Perhaps this is but the catalyst to a better future."
+mzilli_supernova.9.auth:0 "Order must be maintained if the [Root.GetSpeciesNamePlural] are to survive."
+mzilli_supernova.9.mil:0 "We must fight for our place in the cosmos!"
+mzilli_supernova.9.pac:0 "The universe is a dark and violent place."
+mzilli_supernova.9.extinct:0 "§RWe were too late...§!"
+
+mzilli_supernova.10.desc.intro:0 "The primary of the §H[mzilli_supernova.System.GetName] system§! appears to be nearing the end of its life.\n\n[mzilli_supernova.solar_system.star.GetName], once a large main-sequence star, exhausted its supply of hydrogen long ago and has since formed a new core made of heavy elements -- carbon, oxygen, sulfur, silicon, and neon. Now this super-dense core is on the brink of gravitational collapse, and on §R[mzilli_supernova.solar_system.star.supernova_date]§! [mzilli_supernova.solar_system.star.GetName] will explode in a cataclysmic Type II supernova. The blast will immolate all planets -- and starships -- in the system when it does so."
+mzilli_supernova.10.desc.primitive:0 "$mzilli_supernova.10.desc.intro$\n\nA [mzilli_supernova.GetPlanetMoon] in the system, §Y[mzilli_supernova.GetName]§!, appears to be inhabited by an alien civilization. Judging from the lack of any hyperdrive signatures around their [mzilli_supernova.GetPlanetMoon], the aliens lack the means to travel to other worlds -- when [mzilli_supernova.solar_system.star.GetName] explodes, they will no doubt be wiped out."
+mzilli_supernova.10.desc.default:0 "$mzilli_supernova.10.desc.intro$\n\nA [mzilli_supernova.GetPlanetMoon] in the system, §Y[mzilli_supernova.GetName]§!, is inhabited by the §Y[mzilli_supernova.owner.GetName]§!, a spacefaring civilization. While they clearly have the means to colonize other worlds, [mzilli_supernova.GetName] itself will be wiped out along with all of its inhabitants when [mzilli_supernova.solar_system.star.GetName] explodes. No doubt they are aware of the danger and preparing accordingly."
+mzilli_supernova.10.desc.none:0 "$mzilli_supernova.10.desc.intro$\n\nWe will continue to monitor the star's activity."
+
+mzilli_supernova.10.a:0 "Distressing."
+mzilli_supernova.10.b:0 "Not our problem."
+
+mzilli_supernova.11.desc.primitive.1:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova, and its inhabited [FROM.GetPlanetMoon], [FROM.GetName], is rapidly deteriorating as diminishing stellar output unleashes a nuclear winter. The indigenous [FROM.owner.GetSpeciesNamePlural] lack the scientific background to understand what is happening to their sun, but the effects on [FROM.GetName]'s climate are both obvious and deadly, and hysteria has gripped their populations.\n\nAny [Root.GetAdj] starships in the system should evacuate before it's too late. Even the outskirts will likely prove too dangerous to survive."
+mzilli_supernova.11.desc.primitive.2:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova, and its inhabited [FROM.GetPlanetMoon], [FROM.GetName], is rapidly deteriorating as diminishing stellar output unleashes a nuclear winter. Hysteria has gripped its [FROM.owner.GetSpeciesAdj] population as their inescapable doom approaches.\n\nAny [Root.GetAdj] starships in the system should evacuate before it's too late. Even the outskirts will likely prove too dangerous to survive."
+mzilli_supernova.11.desc.primitive.3:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova, and its inhabited [FROM.GetPlanetMoon], [FROM.GetName], is rapidly deteriorating as diminishing stellar output unleashes a nuclear winter. Hysteria has gripped its [FROM.owner.GetSpeciesAdj] population as their inescapable doom approaches. The only solace available to them is the knowledge that their civilization lives on in the people aboard their ark ship, which hopefully will find its way to a new world on which to rebuild.\n\nAny [Root.GetAdj] starships in the system should evacuate before it's too late. Even the outskirts will likely prove too dangerous to survive."
+mzilli_supernova.11.desc.default:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova, and its inhabited [FROM.GetPlanetMoon], [FROM.GetName], is rapidly deteriorating as diminishing stellar output unleashes a nuclear winter. All §Y[FROM.owner.GetAdj]§! officials are being evacuated from the system; any starships remaining nearby should follow suit before it's too late. Even the outskirts will likely prove too dangerous to survive.\n\nThere are still millions of people trapped on [FROM.GetName], desperately trying to barter passage out of the system before the sun explodes. It is unlikely many of them will make it out in time."
+mzilli_supernova.11.desc.none:0 "Only a few months remain until §Y[FROM.solar_system.star.GetName]§! goes supernova. Though the system is uninhabited, any starships in the vicinity should withdraw before it's too late -- even the outskirts will likely prove too dangerous to survive."
+
+mzilli_supernova.12.desc.primitive.extinct:0 "It is confirmed that §H[FROM.System.star.GetName]§! has gone supernova, destroying the [mzilli_supernova_victim.GetSpeciesAdj] homeworld of [FROM.GetName] and all planetary bodies in the vicinity. The [mzilli_supernova_victim.GetSpeciesNamePlural] lacked the ability to travel beyond their [FROM.GetPlanetMoon], and the species has been rendered extinct as a result."
+mzilli_supernova.12.desc.primitive.survivors:0 "It is confirmed that §H[FROM.System.star.GetName]§! has gone supernova, destroying the [mzilli_supernova_victim.GetSpeciesAdj] homeworld of [FROM.GetName] and all planetary bodies in the vicinity. The [mzilli_supernova_victim.GetSpeciesNamePlural] lacked the ability to fully evacuate their [FROM.GetPlanetMoon], and the species has been all but annihilated as a result.\n\nOnly the passengers and crew of their ark ship, launched not quite two years ago, were distant enough to survive the stellar explosion."
+mzilli_supernova.12.desc.default.survivors:0 "It is confirmed that §H[FROM.System.star.GetName]§! has gone supernova, destroying the [mzilli_supernova_victim.GetAdj] world of [FROM.GetName] and all planetary bodies in the vicinity. Though the §Y[mzilli_supernova_victim.GetName]§! has no doubt been aware of the imminent catastrophe for a long time, and has enough interstellar holdings to ensure its survival, this will inevitably be a huge setback for them.\n\nIt is unclear how many [mzilli_supernova_victim.GetSpeciesNamePlural] were in the system when it was obliterated, but even if evacuations did take place it is likely that the victims number in the millions at least."
+mzilli_supernova.12.desc.default.extinct:0 "It is confirmed that §H[FROM.System.star.GetName]§! has gone supernova, destroying the [mzilli_supernova_victim.GetAdj] world of [FROM.GetName] and all planetary bodies in the vicinity. Though the §Y[mzilli_supernova_victim.GetName]§! has no doubt been aware of the imminent catastrophe for a long time, they appear to have lacked any significant interstellar holdings and have been wiped out as a result.\n\nIt is unclear how many [mzilli_supernova_victim.GetSpeciesNamePlural] were in the system when it was obliterated, but even if evacuations did take place it is likely that the victims number in the millions at least."
+mzilli_supernova.12.desc.none:0 "It is confirmed that §Y[FROM.System.star.GetName]§! has gone supernova, destroying all planetary bodies in the vicinity.\n\nThe system was not inhabited at the time, so casualties appear to have been limited to unlucky space travelers who ignored the official warnings and lingered too long, along with any non-sapient lifeforms native to [FROM.System.GetName]'s planets and moons."
+mzilli_supernova.12.desc.unknown:0 "We have observed a supernova! The primary of the §Y[FROM.System.GetName] system§! has reached the end of its life cycle and exploded, an event that occurs once per century on average in our galaxy.\n\nIt is unknown whether any of [FROM.System.GetName]'s planets or moons were inhabited at the time; the system lies beyond the boundaries of explored space."
+
+mzilli_supernova.12.a:0 "A tragic turn of events."
+mzilli_supernova.12.b:0 "Good riddance."
+mzilli_supernova.12.c:0 "Remarkable."
+
+mzilli_supernova.16.name:0 "Imminent Nova"
+mzilli_supernova.16.desc:0 "Only a few months remain until §H[FROM.GetName]§! goes nova and devastates its solar system. Any starships in the vicinity should evacuate now; when the explosion occurs the only safe place in the [FROM.System.GetName] system will be [mzilli_nova_jovian.GetName]'s §Y$pc_habitat$§!, whose programming compels it to take shelter behind its parent planet when this happens.\n\nThe white dwarf will go nova again in approximately §Yeighteen years§!."
+
+mzilli_supernova.18.name:0 "[FROM.System.GetName] Goes Nova"
+mzilli_supernova.18.desc:0 "As predicted, the white dwarf §H[FROM.GetName]§! has gone nova, blasting material across its solar system in a massive explosion. While the planets in the system remain mostly intact, and the §Y$pc_habitat$§! sheltering behind [mzilli_nova_jovian.GetName] was completely undamaged, some [Root.GetAdj] assets were present at the time and subsequently destroyed.\n\n[FROM.GetName] has already resumed siphoning material from [FROM.System.star.GetName], and we can expect another nova to occur on §R[mzilli_nova.nova_date]§!."
+
+mzilli_supernova.20.name:0 "Imminent Supernova"
+mzilli_supernova.20.desc:0 "Three months remain until §H[FROM.GetName]§! goes supernova and destroys its entire solar system, including the outermost planet's §Y$pc_habitat$§!. Any [Root.GetAdj] personnel and starships in the vicinity should evacuate now, while they still have time.\n\nThe explosion is expected to be so severe that it will sever any hyperlanes connecting the [FROM.System.GetName] system to the rest of the galaxy."
+
+mzilli_supernova.22.name:0 "The [FROM.System.GetName] Supernova"
+mzilli_supernova.22.desc:0 "§H[FROM.System.GetName] B§!'s destructive history has finally come to an end. With a final thundering detonation, the white dwarf blew itself apart in a massive supernova that vaporized virtually everything in the system, including a significant percentage of its red giant companion.\n\nAs predicted, the supernova was powerful enough to warp the fabric of space-time as it spread outward, and all hyperlanes connecting the [FROM.System.GetName] system to the rest of the galaxy have been disrupted beyond repair. [FROM.System.GetName], or what little remains of it, is lost to us forever."
+
+mzilli_supernova.25.name:0 "Nova Discovered"
+mzilli_supernova.25.desc:0 "The §Y[mzilli_nova.System.GetName] system§! is home to a stellar phenomenon: a recurring nova.\n\nThe system's white dwarf star, §H[mzilli_nova.GetName]§!, is siphoning material from [mzilli_nova.System.star.GetName], and every eighteen years the captured matter gets so highly compressed and so hot that it undergoes thermonuclear fusion and explodes. This process doesn't destroy either star, but it does obviously spell disaster for whatever is in the system at the time -- starships, satellites, and planets. The only exception seems to be the ancient §Y$pc_habitat$§! in the system's outer rim, which appears to be programmed to take cover behind its parent planet whenever a nova occurs.\n\nAfter the nova, [mzilli_nova.GetName] begins siphoning material again, and the process repeats. The system is safe to traverse and even exploit outside of these nova periods, but remaining present as it explodes would be unwise, to say the least. The next nova will occur on §H[mzilli_nova.nova_date]§!.\n\nWhat's more, we have determined that [mzilli_nova.GetName] is rapidly approaching its Chandrasekhar limit and is expected to explode once and for all on §R[mzilli_nova.supernova_date]§!. This supernova will be so destructive that the white dwarf will be vaporized, as will the Habitat, all planets in the system, and all hyperlanes connecting it to the rest of the galaxy. It should make for quite an impressive sight."
+
+mzilli_supernova.28.name:0 "Incoming Gamma-Ray Burst"
+mzilli_supernova.28.desc.intro:0 "The [FROM.System.GetName] supernova has produced a massive gamma-ray burst, the brightest electromagnetic events known to occur in the universe. It is extremely rare to observe a GRB within our galaxy, but unfortunately this one has [Root.owner.GetAdj] astronomers concerned: it's pointed directly at the neighboring [Root.System.GetName] system, home to our colony of §Y[Root.GetName]§!."
+mzilli_supernova.28.desc.a:0 "$mzilli_supernova.28.desc.intro$\n\nThe [Root.GetPlanetMoon] has a strong magnetic field, which should help to mitigate damage in the event of a direct hit. Still, our physicists are worried that such a powerful eruption of matter and energy might have an extremely damaging effect on [Root.GetName]'s climate when it arrives in §Height years§!, perhaps to the point of rendering it inhospitable for [Root.owner.GetSpeciesAdj] life."
+mzilli_supernova.28.desc.b:0 "$mzilli_supernova.28.desc.a$\n\nWe should consider building a §M$building_planetary_shield_generator$§! on [Root.GetName]. While designed to stave off conventional orbital bombardment, it may help the [Root.GetPlanetMoon] weather the coming storm."
+mzilli_supernova.28.desc.c:0 "$mzilli_supernova.28.desc.intro$\n\nThe [Root.GetPlanetMoon] has a very weak magnetic field, which represents a major vulnerability given the nature of this threat. Our physicists fear that such a powerful eruption of matter and energy might have an extremely damaging effect on [Root.GetName]'s climate when it arrives in §Height years§!, perhaps to the point of rendering it inhospitable for [Root.owner.GetSpeciesAdj] life."
+mzilli_supernova.28.desc.d:0 "$mzilli_supernova.28.desc.c$\n\nWe should consider building a §M$building_planetary_shield_generator$§! on [Root.GetName]. While designed to stave off conventional orbital bombardment, it may help the [Root.GetPlanetMoon] weather the coming storm."
+mzilli_supernova.28.desc.e:0 "$mzilli_supernova.28.desc.intro$\n\nThe [Root.GetPlanetMoon]'s magnetic field normally protects it from stellar phenomena, but the sheer scale of this burst warrants concern. Our physicists fear that such a powerful eruption of matter and energy might have an extremely damaging effect on [Root.GetName]'s climate when it arrives in §Height years§!, perhaps to the point of rendering it inhospitable for [Root.owner.GetSpeciesAdj] life."
+mzilli_supernova.28.desc.f:0 "$mzilli_supernova.28.desc.e$\n\nWe should consider building a §M$building_planetary_shield_generator$§! on [Root.GetName]. While designed to stave off conventional orbital bombardment, it may help the [Root.GetPlanetMoon] weather the coming storm."
+mzilli_supernova.28.tooltip:0 "§Y[ROOT.GetName]§! will be struck by a gamma-ray burst on §H[ROOT.grb_date]§!, with an unknown level of intensity."
+
+mzilli_supernova.30.name:0 "§HGamma-Ray Burst§!: [FROM.GetName] Enthralled"
+mzilli_supernova.30.desc.intro:0 "The eruption of gamma rays from §H[grb_source.GetName]§! has reached §Y[FROM.GetName]§!, creating a spectacular light show in the upper atmosphere that had the entire population looking up in wonder."
+mzilli_supernova.30.desc.a:0 "$mzilli_supernova.30.desc.intro$\n\nFortunately, our §M$building_planetary_shield_generator$§!, along with the [FROM.GetPlanetMoon]'s existing magnetic field, were able to protect our colony from the worst of the burst's effects, and the capital reports no significant ecological damage. Furthermore, they have collected a great deal of energy and physics data from observing the burst."
+mzilli_supernova.30.desc.b:0 "$mzilli_supernova.30.desc.intro$\n\nFortunately, the [FROM.GetPlanetMoon]'s existing magnetic field was sufficient to protect our colony from the worst of the burst's effects, and the capital reports no significant ecological damage. Furthermore, they have collected a great deal of energy and physics data from observing the burst."
+
+mzilli_supernova.31.name:0 "§HGamma-Ray Burst§!: [FROM.GetName] Irradiated"
+mzilli_supernova.31.desc.intro:0 "$mzilli_supernova.30.desc.intro$\n\nUnfortunately, wonder turned to alarm when the population realized that the [FROM.GetPlanetMoon]'s magnetic field was insufficient to block all of the incoming energy. A great deal of radiation has penetrated the atmosphere, damaging the ozone layer and causing enormous ecological damage. Our biologists are hard at work repairing what was destroyed, but they predict the biosphere will suffer for generations to come."
+mzilli_supernova.31.desc.a:0 "$mzilli_supernova.31.desc.intro$\n\nIt would appear that even a $building_planetary_shield_generator$ cannot promise security against the cosmic fury of a supernova."
+mzilli_supernova.31.desc.b:0 "$mzilli_supernova.31.desc.intro$\n\nWe really should have built a $building_planetary_shield_generator$."
+mzilli_supernova.31.desc.c:0 "$mzilli_supernova.31.desc.intro$\n\nSome good did come out of this, however. Our physicists have studied the event in great detail, and they believe they have come up with a technology that will protect our colonies more effectively in the future."
+mzilli_supernova.31.a:0 "Some good will come from this."
+
+mzilli_supernova.32.name:0 "§HGamma-Ray Burst§!: [FROM.GetName] Ravaged"
+mzilli_supernova.32.desc.intro:0 "$mzilli_supernova.30.desc.intro$\n\nUnfortunately, wonder turned to terror when the population realized that the [FROM.GetPlanetMoon]'s magnetic field was woefully incapable of deflecting the incoming energy. In mere minutes the burst had destroyed [FROM.GetName]'s ozone layer, allowing unfiltered ultraviolet light to reach the surface and wreak havok on the indiginous lifeforms. Essentially, the burst has unleashed a nuclear winter on our formerly-lush colony, one that will require extensive terraforming to correct."
+mzilli_supernova.32.desc.a:0 "$mzilli_supernova.32.desc.intro$\n\nIt would appear that even a $building_planetary_shield_generator$ cannot promise security against the cosmic fury of a supernova."
+mzilli_supernova.32.desc.b:0 "$mzilli_supernova.32.desc.intro$\n\nWe really should have built a $building_planetary_shield_generator$."
+mzilli_supernova.32.desc.c:0 "$mzilli_supernova.32.desc.intro$\n\nSome good did come out of this, however. Our physicists have studied the event in great detail, and they believe they have come up with a technology that will protect our colonies more effectively in the future."
+tooltip_mzilli_grb_nuked:0 "§Y[FROM.GetName]§! becomes an irradiated §H$pc_nuked$§! and suffers §R50% devastation§!."
+
+mzilli_supernova.33.name:0 "§HGamma-Ray Burst§!: [FROM.GetName] Scoured"
+mzilli_supernova.33.desc.intro:0 "mzilli_supernova.30.desc.intro\n\nUnfortunately, wonder turned to terror when the population realized that the [FROM.GetPlanetMoon]'s magnetic field was woefully incapable of deflecting the incoming energy. In mere minutes the burst had destroyed not only [FROM.GetName]'s ozone layer, but blowtorched the very atmosphere to the point of ignition. Perhaps we can restore it via extensive terraforming, but for now the entire [FROM.GetPlanetMoon] is a graveyard, completely incapable of sustaining [Root.GetSpeciesAdj] life."
+mzilli_supernova.33.desc.a:0 "$mzilli_supernova.33.desc.intro$\n\nIt would appear that even a $building_planetary_shield_generator$ cannot promise security against the cosmic fury of a supernova."
+mzilli_supernova.33.desc.b:0 "$mzilli_supernova.33.desc.intro$\n\nWe really should have built a $building_planetary_shield_generator$."
+mzilli_supernova.33.desc.c:0 "$mzilli_supernova.33.desc.intro$\n\nSome good did come out of this, however. Our physicists have studied the event in great detail, and they believe they have come up with a technology that will protect our colonies more effectively in the future."
+tooltip_mzilli_grb_stripped:0 "§Y[FROM.GetName]§! is reduced to a §H$pc_barren$§!."
+
+mzilli_supernova.35.name:0 "The Ark Project"
+mzilli_supernova.35.desc.starbase:0 "Our starbase in the [FROM.System.GetName] system has reported some interesting activity among §Y[FROM.GetName]§!'s [FROM.owner.GetSpeciesAdj] population.\n\n$mzilli_supernova.35.desc.middle$ Some personnel aboard our starbase are requesting that they be allowed to covertly aid the [FROM.owner.GetSpeciesAdj] effort."
+mzilli_supernova.35.desc.post:0 "Our observation post orbiting §Y[FROM.GetName]§! has reported some interesting activity among the [FROM.GetPlanetMoon]'s [FROM.owner.GetSpeciesAdj] population.\n\n$mzilli_supernova.35.desc.middle$ Some personnel aboard our observation post are requesting that they be allowed to covertly aid the [FROM.owner.GetSpeciesAdj] effort."
+mzilli_supernova.35.desc.middle:0 "It is apparent that the [FROM.owner.GetSpeciesNamePlural] are now aware that §R[FROM.System.star.GetName]§! is a ticking bomb, and have responded much as would be expected: reactions range from quiet despair, to violent outbursts of anger, to individual or collective suicide. However, a surprisingly large number of [FROM.owner.GetSpeciesNamePlural] seem to be returning to work with new vigor, as if news of their impending destruction has reignited their passion for life.\n\nMost surprising is news that a number of developed nations on [FROM.GetName] have put aside their differences and begun collaborating on an ambitious project: the construction of a massive §Ginterstellar ark§! that could -- in theory -- transport tens of thousands of [FROM.owner.GetSpeciesNamePlural] to another star system. Hyperdrive technology is still beyond their reach, but such a vessel could theoretically be finished in time to escape the [FROM.System.GetName] system before the supernova, forty years from now.\n\nA lot of things would have to go right for that to happen, however, and it's entirely possible that the effort will fail before it even gets off the ground."
+
+mzilli_supernova.35.a:0 "Very well, but keep it quiet."
+mzilli_supernova.35.a.tooltip:0 "Our operatives will covertly help the [FROM.owner.GetSpeciesNamePlural] along."
+mzilli_supernova.35.b:0 "Absolutely not. The [FROM.owner.GetSpeciesNamePlural] must determine their own fate."
+mzilli_supernova.35.b.tooltip:0 "We will watch, but not interfere."
+mzilli_supernova.35.c:0 "Rebuke the xeno-lovers, and sabotage this \"ark project\"!"
+mzilli_supernova.35.c.tooltip:0 "Our operatives will covertly sabotage the [FROM.owner.GetSpeciesAdj] project."
+
+mzilli_ark_project:0 "Ark Project: Covert Observation"
+mzilli_ark_project_desc:0 "This world is racing to develop an interstellar ark before [This.System.star.GetName] explodes."
+mzilli_ark_project_helped:0 "Ark Project: Covert Aid"
+mzilli_ark_project_helped_desc:0 "This world is racing to develop an interstellar ark before [This.System.star.GetName] explodes, covertly aided by the §Y[This.space_owner.GetName]§!."
+mzilli_ark_project_sabotaged:0 "Ark Project: Covert Sabotage"
+mzilli_ark_project_sabotaged_desc:0 "This world is racing to develop an interstellar ark before [This.System.star.GetName] explodes, but their efforts are being covertly sabotaged by the §Y[This.space_owner.GetName]§!."
+
+NAME_Supernova_Ark: "NAME_Diaspora"
+
+mzilli_supernova.37.name:0 "Ark Project Failed"
+mzilli_supernova.37.desc:0 "the §Y[FROM.owner.GetName]§!'s Ark Project appears to have ended in failure. It seems the effort required to build such a vast starship, and deploy it in time to escape the imminent destruction of [FROM.GetName], was too much to overcome polical and economic realities.\n\nWhen [FROM.System.star.GetName] explodes in a supernova, four years from now, the [FROM.owner.GetSpeciesNamePlural] will be rendered extinct."
+mzilli_supernova.37.desc.a:0 "Despite their best efforts, $mzilli_supernova.37.desc$"
+mzilli_supernova.37.desc.b:0 "Despite their best efforts, and our own attempts to help them along, $mzilli_supernova.37.desc$"
+mzilli_supernova.37.desc.c:0 "Success! $mzilli_supernova.37.desc.a$"
+
+mzilli_supernova.38.name:0 "Ark Project Completed"
+mzilli_supernova.38.desc.a:0 "Against what must have been astronomical odds, the §Y[FROM.owner.GetName]§! has completed the construction of an interstellar ark in orbit of [FROM.GetName]!\n\nWhile fairly primitive by our standards, the ark -- \"§B[mzilli_ark_ship.GetName]§!\", according to the name proudly emblazoned on the hull -- is massive in size, dwarfing many [Root.GetAdj] starbases, and appears equipped to support up to 100,000 [FROM.owner.GetSpeciesNamePlural] for the decades-long voyage to another star system. The [mzilli_ark_ship.GetName] is currently taking on passengers, crew, and supplies, a process that will likely take at least two years. [FROM.System.star.GetName] will explode in four."
+mzilli_supernova.38.desc.b:0 "$mzilli_supernova.38.desc.a$\n\nWhile our covert assistence certainly contributed to this vessel, our operatives have refused to accept credit, pointing instead to the billions of [FROM.owner.GetSpeciesNamePlural] on [FROM.GetName] who labored for decades to make it a reality."
+mzilli_supernova.38.desc.c:0 "$mzilli_supernova.38.desc.a$\n\nOur sabotage clearly did not go far enough. If we want to end this project, we must send ships to destroy the [mzilli_ark_ship.GetName] before it leaves the [FROM.System.GetName] system."
+
+mzilli_supernova.38.a:0 "A remarkable accomplishment!"
+
+mzilli_supernova.40.name:0 "Ark Ship Destroyed"
+mzilli_supernova.40.desc:0 "The [FROM.owner.GetSpeciesAdj] ark ship §B[mzilli_ark_ship.GetName]§! has been destroyed! As the massive vessel was preparing to leave [FROM.GetName], a massive explosion tore through its engineering hull, unleashing a chain reaction that ripped the massive generation ship apart. There were only a few thousand survivors, barely ten percent of the passengers and crew.\n\nPreliminary findings indicate that the initial explosion was caused by a series of misaligned power cells, improperly installed due to the rapid pace of construction. There are also hints that the ship was infiltrated by members of a [FROM.owner.GetSpeciesAdj] apocalypse cult, who believed that the species was meant to die with their [FROM.GetPlanetMoon].\n\nWhatever the cause, the outcome is clear: there is no longer sufficient time to evacuate [FROM.GetName]. When [FROM.System.star.GetName] explodes, the [FROM.owner.GetSpeciesNamePlural] will cease to exist."
+
+mzilli_supernova.41.name:0 "Ark Ship Launched"
+mzilli_supernova.41.desc:0 "The [FROM.owner.GetSpeciesAdj] ark ship §B[mzilli_ark_ship.GetName]§! has left [FROM.GetName], setting a course for the neighboring [ark_destination.System.GetName] system. Intercepted [FROM.owner.GetSpeciesAdj] communications indicate they suspect the existence of a [ark_destination.GetPlanetMoon] there, possibly §Y[ark_destination.GetName]§!, that can support life and might serve as a new homeworld for their civilization.\n\nThough [FROM.GetName] and its remaining inhabitants are doomed, hope lives on in the 100,000 [FROM.owner.GetSpeciesNamePlural] departing aboard the great ark ship. Time will tell whether they survive the decades-long voyage to [ark_destination.System.GetName]."
+
+mzilli_supernova.44.desc:0 "With the destruction of the §B[FROMFROMFROM.GetName]§!, the [FROM.GetSpeciesNamePlural] have fallen into complete despair. After all the effort they put into building the ark ship over the past few decades, losing it to a freak alien attack was a blow from which they will not recover.\n\nThere is no longer any doubt: when [FROM.capital_scope.System.star.GetName] explodes, the [FROM.GetSpeciesNamePlural] will cease to exist."
+
+mzilli_supernova.46.name:0 "[mzilli_ark_ship.owner.GetSpeciesAdj] Ark Arrives"
+mzilli_supernova.46.desc:0 "Our starbase in the [FROM.System.GetName] system has sighted a massive vessel entering the system at sublight speeds, decelerating around the local sun. It appears to be none other than the §B[mzilli_ark_ship.GetName]§!, the [mzilli_ark_ship.owner.GetSpeciesAdj] ark ship that escaped the destruction of §H[ark_species.home_planet.GetName]§! decades ago!\n\nThough somewhat worn out from its long voyage, the vessel is in remarkably good condition for its age and appears to be on a course for §Y[FROM.GetName]§!. Presumably its [mzilli_ark_ship.owner.GetSpeciesAdj] passengers and crew still hope to rebuild their lost civilization on the [FROM.GetClassAdj] [FROM.GetPlanetMoon]."
+tooltip_ark_tolerated:0 "The [ark_ship.owner.GetSpeciesNamePlural] will attempt to colonize §Y[FROM.GetName]§! or, failing that, another suitable world in the [FROM.System.GetName] system."
+
+mzilli_supernova.49.name:0 "New [FROM.owner.home_planet.GetName]"
+mzilli_supernova.49.desc:0 "The [FROM.owner.GetSpeciesNamePlural] have made planetfall! §Y[FROM.GetName]§! in the [FROM.System.GetName] system is now home to the reborn [FROM.owner.GetSpeciesAdj] civilization, who have named the [FROM.GetClassAdj] [FROM.GetPlanetMoon] "New [FROM.owner.home_planet.GetName]".\n\nThe ark ship §B[mzilli_ark_ship.GetName]§!, finally at the end of its long journey, is being disassembled and its parts shipped down to the surface to provide housing for the new colony. It will take a long time, but eventually the [FROM.owner.GetSpeciesNamePlural] will return to their former glory."
+
+mzilli_supernova.51.name:0 "[ark_species.GetNamePlural] Colonize [FROM.GetName]"
+mzilli_supernova.51.desc:0 "The [ark_species.GetNamePlural] have made planetfall! §Y[FROM.GetName]§!, a [FROM.GetPlanetMoon] in the [FROM.System.GetName] system, is now home to the reborn [ark_species.GetAdj] civilization. The ark ship §B[mzilli_ark_ship.GetName]§!, finally at the end of its long journey, is being disassembled and its parts shipped down to the surface to provide housing for the new colony.\n\nThe [FROM.GetClassAdj] [FROM.GetPlanetMoon]'s indigenous species, the [FROM.owner.GetSpeciesNamePlural], seem less than thrilled to see a hundred thousand aliens move in, but at the moment there is little they can do to prevent it -- [ark_species.GetAdj] technology is far superior to theirs."
+
+mzilli_supernova.53.name:0 "New [ark_species.home_planet.GetName]"
+mzilli_supernova.53.desc:0 "Our starbase in the [FROM.System.GetName] system has some unsettling news: the [ark_species.GetAdj] colonists on §Y[FROM.GetName]§! appear to have seized control of the [FROM.GetPlanetMoon] from the native [FROM.owner.GetSpeciesNamePlural].\n\nDespite being vastly outnumbered, advanced [ark_species.GetAdj] technology and tactics prevailed against the relatively primitive forces of the [FROM.owner.GetSpeciesAdj] civilization. While the [ark_species.GetNamePlural] do not appear to be persecuting the [FROM.owner.GetSpeciesNamePlural] at present, there can be no mistake as to which species now rules [FROM.GetName]."
+
+mzilli_supernova.54.name:0 "The [mzilli_ark_ship.GetName]"
+mzilli_supernova.54.desc:0 "I greet you, [Root.GetRulerTitle], on behalf of every [ark_species.GetName] aboard the §B[mzilli_ark_ship.GetName]§!!\n\nMy people are the descendants of refugees from [ark_species.home_planet.System.GetName], a system that exploded in a supernova many decades ago. Our homeworld was destroyed, but one hundred thousand of our people escaped aboard this ship. We have spent our entire lives roaming the stars, waiting to find a new world on which to settle.\n\nUnfortunately, we hadn't expected said world to be inhabited already. Our vessel is quite old, [Root.GetRulerTitle], and my people are weary. Might it be possible for us to immigrate to §Y[FROM.GetName]§!? I promise we won't make any trouble!"
+tooltip_ark_welcomed:0 "2 [ark_species.GetAdj] pops join our colony on [FROM.GetName].\nAdds an $d_mzilli_ark_ship$ on [FROM.GetName]."
+tooltip_ark_rejected:0 "The [ark_species.GetNamePlural] will look for a new home elsewhere in the [FROM.System.GetName] system."
+
+d_mzilli_ark_ship:0 "Ark Ship Museum"
+d_mzilli_ark_ship_desc:0 "The remains of the ark ship that carried an entire species to this new world are quite the tourist attraction."
+
+MZILLI_SUPERNOVA_HABITAT:0 "Mysterious Habitat"
+MZILLI_SUPERNOVA_HABITAT_DESC:0 "An enormous space station, dozens of kilometers across, circles the system's lone gas giant. Although no life signs have been detected, the structure appears to still have an active power source.\n\nWe will have to board it to learn more."
+
+mzilli_supernova.55.name:0 "Storm Shelter"
+mzilli_supernova.55.desc:0 "The $pc_habitat$ in the §Y[From.System.GetName] system§! was built some four million years ago, according to [Root.Leader.GetName] and [Root.Leader.GetHerHis] team. Its creators were interested in the system's binary stars, which go nova §Yevery eighteen years§!, and programmed the habitat's main computer to automatically place it between its parent planet and the white dwarf whenever this was about to occur.\n\nAlthough the station is now long-abandoned, the reason for which remains unknown, it appears to be relatively intact, and the relocation subroutines are still functional. Were we to colonize it, it would still be capable of protecting its inhabitants from the novae."
+mzilli_supernova.55.tooltip:0 "The §Y[From.GetName]§! can now be colonized. It will remain intact throughout §Y[From.System.GetName] B§!'s nova periods, allowing continuous control of the [From.System.GetName] system."
