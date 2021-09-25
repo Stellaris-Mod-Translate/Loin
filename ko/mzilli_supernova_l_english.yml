@@ -8,7 +8,7 @@ edict_mzilli_supernova_evacuation_protocols_desc: "$edict_evacuation_protocols_d
 
 #pc_k_giant_star_desc:0 "$pc_m_giant_desc$"
 
-pc_f_giant_star: ""
+pc_f_giant_star: "F형 백색거성"
 pc_f_giant_star_desc: ""
 mzilli_supernova_system_01_NAME: ""
 mzilli_supernova_system_01_DESC: ""
