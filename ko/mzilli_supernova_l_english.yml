@@ -85,7 +85,7 @@ mzilli_supernova.7.desc.i: "§Y[FROM.solar_system.star.GetName]§!(이)가 초�
 mzilli_supernova.7.desc.g: "§Y[FROM.solar_system.star.GetName]§!(이)가 초신성 폭발을 일으키기까지 몇 달밖에 남지 않았습니다. [FROM.GetName] (은)는 끝이 다가옴에 따라 지구는 급격히 악화하고 있습니다. 이곳에 남아있는 모든 함선들은 너무 늦기 전에 따라 가야 합니다. 심지어 외부 환경도 살아남기엔 너무 위험하다고 판명됐습니다."
 mzilli_supernova.7.a: "우리가 할 수 있는 건 다했다."
 mzilli_supernova.9.name: "[FROM.System.GetName] 초신성 폭발"
-mzilli_supernova.9.desc.extinct: ""
+mzilli_supernova.9.desc.extinct: "[FROM.GetName]에 있는 우리의 자동 모니터링 시스템은 이곳에 마지막 순간을 포착했습니다.\n\n§Y[FROM.solar_system.star.GetName]§!(은)는 중심핵이 붕괴되면서 급속히 수축하고 어두워지기 시작했습니다. 잠시 후 별의 표면층이 폭발하면서 진정한 초신성이 됐습니다. 내부 행성들은 말그래도 끓어버렸고, 그 자리에 먼지 구름만 남았습니다.\n\n폭발 충격이 [FROM.GetName]에 도달핬을 때 [FROM.GetPlanetMoon](을)를 완전히 증발시킬 정도의 큰 에너지는 가지고 있지 않았습니다. 대신에, [FROM.GetName](은)는 셀 수 없이 작은 조각들로 박살나 느슨한 중력으로 서로가 묶여 있습니다. 가장 바깥의 행성들은 대부분 온전하게 남겨졌지만, 대기가 날아가고 표면 지각이 액체 암석으로 녹았습니다."
 mzilli_supernova.9.desc.survivors: ""
 mzilli_supernova.9.phile: "이제 우리는 별들로 간다"
 mzilli_supernova.9.phobe: "우리는 무슨 수를 써서라도 살아남는다"
